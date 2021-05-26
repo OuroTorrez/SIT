@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 05/25/21 18:12:56
+=======
+﻿Log file open, 05/25/21 01:12:11
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 =======
 ﻿Log file open, 05/25/21 01:12:11
 >>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
@@ -13,12 +17,16 @@ LogStats: Stats thread started at 0.276694
 =======
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.455205
+<<<<<<< HEAD
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
+=======
 >>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin AISupport
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
@@ -52,6 +60,8 @@ LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin PluginBrowser
 =======
+=======
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -72,14 +82,22 @@ LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
+<<<<<<< HEAD
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
+=======
 >>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosClothEditor
+=======
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 =======
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
@@ -107,6 +125,9 @@ LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
+<<<<<<< HEAD
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
+=======
 >>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
@@ -120,9 +141,15 @@ LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin ActorSequence
+=======
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 =======
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin UdpMessaging
@@ -139,6 +166,9 @@ LogPluginManager: Mounting plugin OnlineSubsystemNull
 =======
 LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
+<<<<<<< HEAD
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
+=======
 >>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
@@ -165,8 +195,11 @@ LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PostSplashScreen
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
+=======
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 =======
 >>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 LogPluginManager: Mounting plugin PropertyAccessEditor
@@ -282,6 +315,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2021.05.25-23.12.57:484][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.05.25-23.12.57:484][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1464,6 +1498,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.25-23.13.52:685][462]LogExit: Exiting.
 [2021.05.25-23.13.52:717][462]Log file closed, 05/25/21 18:13:52
 =======
+=======
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
 [2021.05.25-06.12.12:532][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.05.25-06.12.12:532][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.05.25-06.12.12:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/minea/Documents/Unreal Projects/SIT/Saved/Config/Windows/Engine.ini]
@@ -5967,4 +6003,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.25-07.43.20:848][ 53]LogD3D11RHI: CleanupD3DDevice
 [2021.05.25-07.43.20:951][ 53]LogExit: Exiting.
 [2021.05.25-07.43.20:981][ 53]Log file closed, 05/25/21 02:43:20
+<<<<<<< HEAD
+>>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
+=======
 >>>>>>> parent of d2303d8 (jaja ora si me rifé (invisibilidad completada, cd para invisibilidad,grapple y pequeñas mejoras en la interfaz)))
